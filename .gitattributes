@@ -1,0 +1,5 @@
+.gitattributes text=auto
+*.C text eol=crlf
+*.CPP text eol=crlf
+*.ASM text eol=crlf
+*.BAS text eol=crlf
